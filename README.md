@@ -61,6 +61,7 @@ To use the tools and websites listed in this repository, follow the usage instru
 |<a href="https://github.com/mentebinaria/retoolkit/">ReToolkit</a>    |Reverse Engineer's Toolkit   |
 |<a href="https://github.com/jlevy/the-art-of-command-line/">The Art of Command Line</a>    |Master the command line, in one page   |
 |<a href="https://github.com/ZoranPandovski/awesome-testing-tools">Awesome Testing Tools</a>    |A curated list of awesome testing tools   |
+|<a href="https://github.com/vostride/agent-qa">Agent QA</a>    |Run natural-language web and mobile regression tests locally and retain execution evidence   |
 |<a href="https://oinam.github.io/entities/">Character Entities for HTML, CSS and Javascript</a>   |Character Entities for HTML, CSS and Javascript  |
 |<a href="https://html.spec.whatwg.org/multipage/named-characters.html">HTML Living Standard</a>   |HTML Living Standard  |
 |<a href="https://www.tango.us/">Tango</a>   |Create software training walkthroughs in minutes  |
